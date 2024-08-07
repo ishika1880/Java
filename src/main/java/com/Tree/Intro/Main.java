@@ -24,6 +24,6 @@ public class Main {
 
 }
 /* Pre-order traversal - N-L-R  - to evaluate math expression, or making a copy, in serialization
- * In-order traversal - L-N-R - to visit node in sorted manner in BST
- * Post-order traversal - L-R-N - to delete the node, because you need to children first; for calculating bottom to up 
+ * In-order traversal - L-N-R - to visit node in the sorted manner in BST
+ * Post-order traversal - L-R-N - to delete the node, because you need to delete children first; for calculating bottom to up 
 */
